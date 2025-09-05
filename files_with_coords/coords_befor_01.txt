@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-06-04T09:18:06Z"/>
+
+  <way id="77771588">
+    <center lat="47.2733628" lon="39.6405598"/>
+    <nd ref="914699027"/>
+    <nd ref="914698966"/>
+    <nd ref="914698998"/>
+    <nd ref="914699024"/>
+    <nd ref="914699016"/>
+    <nd ref="914698893"/>
+    <nd ref="914698902"/>
+    <nd ref="914698972"/>
+    <nd ref="914698963"/>
+    <nd ref="914698941"/>
+    <nd ref="1511376534"/>
+    <nd ref="1511376532"/>
+    <nd ref="7470190207"/>
+    <nd ref="7470190208"/>
+    <nd ref="914698943"/>
+    <nd ref="914698996"/>
+    <nd ref="914698946"/>
+    <nd ref="914698911"/>
+    <nd ref="1511376520"/>
+    <nd ref="914698971"/>
+    <nd ref="914699014"/>
+    <nd ref="5650643249"/>
+    <nd ref="5650643248"/>
+    <nd ref="5650643247"/>
+    <nd ref="5650643240"/>
+    <nd ref="5650643241"/>
+    <nd ref="5650643242"/>
+    <nd ref="5650643243"/>
+    <nd ref="5650643244"/>
+    <nd ref="5650643245"/>
+    <nd ref="5650643246"/>
+    <nd ref="5650643237"/>
+    <nd ref="5650643238"/>
+    <nd ref="5650643239"/>
+    <nd ref="5650643250"/>
+    <nd ref="5650643251"/>
+    <nd ref="914698938"/>
+    <nd ref="936215167"/>
+    <nd ref="914698910"/>
+    <nd ref="5650648854"/>
+    <nd ref="5650648853"/>
+    <nd ref="914698920"/>
+    <nd ref="914698982"/>
+    <nd ref="1526086918"/>
+    <nd ref="914699029"/>
+    <nd ref="5650596931"/>
+    <nd ref="5650596930"/>
+    <nd ref="914698973"/>
+    <nd ref="5650596927"/>
+    <nd ref="5650596929"/>
+    <nd ref="5650596928"/>
+    <nd ref="5650596926"/>
+    <nd ref="914698975"/>
+    <nd ref="5650596932"/>
+    <nd ref="5650596933"/>
+    <nd ref="5650596934"/>
+    <nd ref="914698952"/>
+    <nd ref="914698993"/>
+    <nd ref="5650596924"/>
+    <nd ref="5650596925"/>
+    <nd ref="914698928"/>
+    <nd ref="982654171"/>
+    <nd ref="914698909"/>
+    <nd ref="914699031"/>
+    <nd ref="914698957"/>
+    <nd ref="914698948"/>
+    <nd ref="914698989"/>
+    <nd ref="914699025"/>
+    <nd ref="914699033"/>
+    <nd ref="914698937"/>
+    <nd ref="914698931"/>
+    <nd ref="914698978"/>
+    <nd ref="914698908"/>
+    <nd ref="914698929"/>
+    <nd ref="914698980"/>
+    <nd ref="914699012"/>
+    <nd ref="914699018"/>
+    <nd ref="914698926"/>
+    <nd ref="982655272"/>
+    <nd ref="914698962"/>
+    <nd ref="1535261069"/>
+    <nd ref="914698891"/>
+    <nd ref="5650596973"/>
+    <nd ref="1419777874"/>
+    <nd ref="1419777879"/>
+    <nd ref="914698945"/>
+    <nd ref="914698906"/>
+    <nd ref="914698991"/>
+    <nd ref="914698956"/>
+    <nd ref="914698905"/>
+    <nd ref="914699022"/>
+    <nd ref="914698992"/>
+    <nd ref="5650596936"/>
+    <nd ref="5650596935"/>
+    <nd ref="10761209852"/>
+    <nd ref="10761209860"/>
+    <nd ref="10761209857"/>
+    <nd ref="914698995"/>
+    <nd ref="914699027"/>
+    <tag k="aerodrome:type" v="regional"/>
+    <tag k="aeroway" v="aerodrome"/>
+    <tag k="ele" v="88"/>
+    <tag k="landuse" v="military"/>
+    <tag k="military" v="airfield"/>
+    <tag k="name" v="Ростов-на-Дону — Центральный"/>
+    <tag k="name:en" v="Rostov-on-Don North Air Base"/>
+    <tag k="name:ru" v="Ростов-на-Дону — Центральный"/>
+    <tag k="name:uk" v="Ростов-на-Дону — Центральний"/>
+    <tag k="nat_ref" v="ЬРРО"/>
+    <tag k="official_status" v="ru:авиабаза"/>
+    <tag k="old_ref" v="РДО"/>
+    <tag k="operator" v="Министерство обороны Российской Федерации"/>
+    <tag k="ref" v="XRRO"/>
+    <tag k="wikipedia" v="en:Rostov-on-Don North (air base)"/>
+  </way>
+  <way id="119259597">
+    <center lat="47.1979475" lon="39.9554179"/>
+    <nd ref="1340589265"/>
+    <nd ref="10579970830"/>
+    <nd ref="10579970829"/>
+    <nd ref="10579970828"/>
+    <nd ref="10579970827"/>
+    <nd ref="10579970826"/>
+    <nd ref="1340589262"/>
+    <nd ref="10579970825"/>
+    <nd ref="10579970824"/>
+    <nd ref="10579970823"/>
+    <nd ref="1340589261"/>
+    <nd ref="10579970822"/>
+    <nd ref="10579970820"/>
+    <nd ref="10579970821"/>
+    <nd ref="10579970819"/>
+    <nd ref="10579970818"/>
+    <nd ref="10579970817"/>
+    <nd ref="10579970816"/>
+    <nd ref="10579970815"/>
+    <nd ref="10579970814"/>
+    <nd ref="10579970813"/>
+    <nd ref="10579970812"/>
+    <nd ref="10579970811"/>
+    <nd ref="10579970810"/>
+    <nd ref="10579970809"/>
+    <nd ref="10579970808"/>
+    <nd ref="10579970807"/>
+    <nd ref="10579970806"/>
+    <nd ref="10579970805"/>
+    <nd ref="10579970804"/>
+    <nd ref="10579970803"/>
+    <nd ref="10579970801"/>
+    <nd ref="10579970802"/>
+    <nd ref="10579970800"/>
+    <nd ref="1340589267"/>
+    <nd ref="1340589265"/>
+    <tag k="aerodrome:type" v="airfield"/>
+    <tag k="aeroway" v="aerodrome"/>
+    <tag k="ele" v="2"/>
+    <tag k="name" v="Ольгинская"/>
+    <tag k="name:en" v="Ol'ginskaya Airfield"/>
+    <tag k="name:ru" v="Ольгинская"/>
+    <tag k="name:uk" v="Ольгинська"/>
+    <tag k="nat_ref" v="УРРЬ"/>
+    <tag k="official_status" v="ru:аэродром"/>
+    <tag k="ref:aopa:en" v="ZFQ5"/>
+  </way>
+  <way id="251614687">
+    <center lat="47.1146048" lon="39.7915008"/>
+    <nd ref="993080373"/>
+    <nd ref="4204592903"/>
+    <nd ref="11442872469"/>
+    <nd ref="11442872134"/>
+    <nd ref="11442872468"/>
+    <nd ref="11442872467"/>
+    <nd ref="4204592902"/>
+    <nd ref="11442872466"/>
+    <nd ref="11442872463"/>
+    <nd ref="11442872464"/>
+    <nd ref="11442872462"/>
+    <nd ref="4204592901"/>
+    <nd ref="11442872465"/>
+    <nd ref="4204592898"/>
+    <nd ref="11442872458"/>
+    <nd ref="11442872459"/>
+    <nd ref="11442872460"/>
+    <nd ref="11442872461"/>
+    <nd ref="4204592896"/>
+    <nd ref="4204592893"/>
+    <nd ref="4204592894"/>
+    <nd ref="11442872456"/>
+    <nd ref="11442872457"/>
+    <nd ref="4204592895"/>
+    <nd ref="4204592897"/>
+    <nd ref="4204592899"/>
+    <nd ref="11442872453"/>
+    <nd ref="11442872454"/>
+    <nd ref="11442872091"/>
+    <nd ref="11442872455"/>
+    <nd ref="4204592900"/>
+    <nd ref="2578075417"/>
+    <nd ref="11442872374"/>
+    <nd ref="11442872373"/>
+    <nd ref="11442872332"/>
+    <nd ref="11442872331"/>
+    <nd ref="11442872333"/>
+    <nd ref="11442872330"/>
+    <nd ref="11442872337"/>
+    <nd ref="11442872334"/>
+    <nd ref="11442872335"/>
+    <nd ref="11442872336"/>
+    <nd ref="11442872372"/>
+    <nd ref="11442872325"/>
+    <nd ref="11442872371"/>
+    <nd ref="11442872370"/>
+    <nd ref="993063376"/>
+    <nd ref="2578075418"/>
+    <nd ref="4204579493"/>
+    <nd ref="2578075410"/>
+    <nd ref="4204575587"/>
+    <nd ref="4204575588"/>
+    <nd ref="2578075413"/>
+    <nd ref="4204575586"/>
+    <nd ref="2578075411"/>
+    <nd ref="4204579490"/>
+    <nd ref="4204579489"/>
+    <nd ref="4204579491"/>
+    <nd ref="2578075412"/>
+    <nd ref="4204579494"/>
+    <nd ref="4204579495"/>
+    <nd ref="11442872687"/>
+    <nd ref="11442872688"/>
+    <nd ref="11442872689"/>
+    <nd ref="11442872690"/>
+    <nd ref="11442872691"/>
+    <nd ref="4204579499"/>
+    <nd ref="4204579500"/>
+    <nd ref="4204579501"/>
+    <nd ref="4204579502"/>
+    <nd ref="11442872692"/>
+    <nd ref="11442872693"/>
+    <nd ref="11442872694"/>
+    <nd ref="11442872695"/>
+    <nd ref="4204579506"/>
+    <nd ref="11442872679"/>
+    <nd ref="11442872680"/>
+    <nd ref="4204579505"/>
+    <nd ref="4204579503"/>
+    <nd ref="4204579504"/>
+    <nd ref="4204579498"/>
+    <nd ref="4204579497"/>
+    <nd ref="4204579496"/>
+    <nd ref="4204575585"/>
+    <nd ref="11442872677"/>
+    <nd ref="11442872678"/>
+    <nd ref="11442872509"/>
+    <nd ref="11442872508"/>
+    <nd ref="11442872507"/>
+    <nd ref="11442872506"/>
+    <nd ref="11442872505"/>
+    <nd ref="11442872504"/>
+    <nd ref="11442872503"/>
+    <nd ref="11442872502"/>
+    <nd ref="11442872500"/>
+    <nd ref="11442872501"/>
+    <nd ref="4204575561"/>
+    <nd ref="4204575560"/>
+    <nd ref="4204575558"/>
+    <nd ref="4204575554"/>
+    <nd ref="4204575553"/>
+    <nd ref="11442872527"/>
+    <nd ref="11442872528"/>
+    <nd ref="11442872529"/>
+    <nd ref="4204575549"/>
+    <nd ref="11442872530"/>
+    <nd ref="11442872531"/>
+    <nd ref="11442872532"/>
+    <nd ref="4204575543"/>
+    <nd ref="11442872534"/>
+    <nd ref="11442872533"/>
+    <nd ref="4204575539"/>
+    <nd ref="11442872535"/>
+    <nd ref="4204575542"/>
+    <nd ref="4204575547"/>
+    <nd ref="4204575548"/>
+    <nd ref="11442872537"/>
+    <nd ref="4204575552"/>
+    <nd ref="11442872538"/>
+    <nd ref="11442872539"/>
+    <nd ref="11442872540"/>
+    <nd ref="11442872541"/>
+    <nd ref="2578075415"/>
+    <nd ref="4204575550"/>
+    <nd ref="2578075420"/>
+    <nd ref="4204575545"/>
+    <nd ref="11442872545"/>
+    <nd ref="4204575546"/>
+    <nd ref="4204575544"/>
+    <nd ref="4204575541"/>
+    <nd ref="4204575536"/>
+    <nd ref="4204575540"/>
+    <nd ref="11442872551"/>
+    <nd ref="11442872552"/>
+    <nd ref="11442872549"/>
+    <nd ref="11442872550"/>
+    <nd ref="11442872548"/>
+    <nd ref="4204575551"/>
+    <nd ref="11442872553"/>
+    <nd ref="4204575557"/>
+    <nd ref="4204575559"/>
+    <nd ref="4204575562"/>
+    <nd ref="11442872555"/>
+    <nd ref="11442872554"/>
+    <nd ref="4204575563"/>
+    <nd ref="11442872556"/>
+    <nd ref="11442872557"/>
+    <nd ref="4204575564"/>
+    <nd ref="4204575565"/>
+    <nd ref="11442872564"/>
+    <nd ref="11442872563"/>
+    <nd ref="4204575566"/>
+    <nd ref="4204575567"/>
+    <nd ref="11442872562"/>
+    <nd ref="11442872561"/>
+    <nd ref="11442872560"/>
+    <nd ref="4204575569"/>
+    <nd ref="11442872559"/>
+    <nd ref="4204575570"/>
+    <nd ref="4204592889"/>
+    <nd ref="4204592891"/>
+    <nd ref="11442872558"/>
+    <nd ref="4204592890"/>
+    <nd ref="4204592892"/>
+    <nd ref="11442872482"/>
+    <nd ref="11442872483"/>
+    <nd ref="11442872484"/>
+    <nd ref="11442872485"/>
+    <nd ref="4204575576"/>
+    <nd ref="11442872441"/>
+    <nd ref="11442872481"/>
+    <nd ref="11442872480"/>
+    <nd ref="11442872479"/>
+    <nd ref="11442872478"/>
+    <nd ref="4204575580"/>
+    <nd ref="11442872477"/>
+    <nd ref="11442872476"/>
+    <nd ref="11442872475"/>
+    <nd ref="11442872474"/>
+    <nd ref="11442872473"/>
+    <nd ref="11442872472"/>
+    <nd ref="11442872471"/>
+    <nd ref="993080376"/>
+    <nd ref="993080451"/>
+    <nd ref="3959710800"/>
+    <nd ref="993093176"/>
+    <nd ref="993093171"/>
+    <nd ref="11442872470"/>
+    <nd ref="993080373"/>
+    <tag k="aerodrome:type" v="regional"/>
+    <tag k="aeroway" v="aerodrome"/>
+    <tag k="alt_name" v="Фрезерный"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="landuse" v="military"/>
+    <tag k="military" v="airfield"/>
+    <tag k="name" v="Батайск"/>
+    <tag k="name:az" v="Bataysk Aviabazası"/>
+    <tag k="name:en" v="Bataysk Air Base"/>
+    <tag k="name:ru" v="Батайск"/>
+    <tag k="name:uk" v="Батайськ"/>
+    <tag k="nat_ref" v="ЬРРБ"/>
+    <tag k="official_status" v="ru:авиабаза;аэродром экспериментальной авиации"/>
+    <tag k="operator" v="Министерство обороны Российской Федерации"/>
+    <tag k="ref" v="XRRB"/>
+    <tag k="wikidata" v="Q4079257"/>
+    <tag k="wikipedia" v="ru:Батайск (аэродром)"/>
+  </way>
+  <way id="292515530">
+    <center lat="47.2590121" lon="39.8194604"/>
+    <nd ref="887617028"/>
+    <nd ref="887611122"/>
+    <nd ref="2960678798"/>
+    <nd ref="865157582"/>
+    <nd ref="865157215"/>
+    <nd ref="2960665105"/>
+    <nd ref="865939787"/>
+    <nd ref="2960665109"/>
+    <nd ref="2960665111"/>
+    <nd ref="2960665110"/>
+    <nd ref="2960665108"/>
+    <nd ref="2960665104"/>
+    <nd ref="887617609"/>
+    <nd ref="2960665106"/>
+    <nd ref="2960665103"/>
+    <nd ref="2960665102"/>
+    <nd ref="2960665101"/>
+    <nd ref="2960665099"/>
+    <nd ref="2960665100"/>
+    <nd ref="2960665098"/>
+    <nd ref="2960665097"/>
+    <nd ref="2960665096"/>
+    <nd ref="2960665094"/>
+    <nd ref="2960665095"/>
+    <nd ref="865157176"/>
+    <nd ref="2960665089"/>
+    <nd ref="2960665088"/>
+    <nd ref="2960665087"/>
+    <nd ref="2960665082"/>
+    <nd ref="2960665083"/>
+    <nd ref="2960665079"/>
+    <nd ref="2960665080"/>
+    <nd ref="2960665077"/>
+    <nd ref="2960665078"/>
+    <nd ref="2960665076"/>
+    <nd ref="2960665081"/>
+    <nd ref="887613465"/>
+    <nd ref="2960665070"/>
+    <nd ref="2960665071"/>
+    <nd ref="865157190"/>
+    <nd ref="887618811"/>
+    <nd ref="887614412"/>
+    <nd ref="865157260"/>
+    <nd ref="1749819312"/>
+    <nd ref="865157199"/>
+    <nd ref="865157474"/>
+    <nd ref="887618395"/>
+    <nd ref="865157518"/>
+    <nd ref="887609963"/>
+    <nd ref="865157614"/>
+    <nd ref="1434966145"/>
+    <nd ref="887618400"/>
+    <nd ref="887610516"/>
+    <nd ref="887616943"/>
+    <nd ref="865157288"/>
+    <nd ref="887609773"/>
+    <nd ref="887616154"/>
+    <nd ref="887614529"/>
+    <nd ref="865157512"/>
+    <nd ref="887616501"/>
+    <nd ref="865157181"/>
+    <nd ref="887609725"/>
+    <nd ref="865157184"/>
+    <nd ref="887618593"/>
+    <nd ref="3820984739"/>
+    <nd ref="3820984738"/>
+    <nd ref="3820984737"/>
+    <nd ref="3820984732"/>
+    <nd ref="3820984728"/>
+    <nd ref="3820984727"/>
+    <nd ref="887615539"/>
+    <nd ref="887612098"/>
+    <nd ref="887616329"/>
+    <nd ref="1513857001"/>
+    <nd ref="865157325"/>
+    <nd ref="865157515"/>
+    <nd ref="887610596"/>
+    <nd ref="887609988"/>
+    <nd ref="887611667"/>
+    <nd ref="865157426"/>
+    <nd ref="865157291"/>
+    <nd ref="865157476"/>
+    <nd ref="887615401"/>
+    <nd ref="865157546"/>
+    <nd ref="887616223"/>
+    <nd ref="865157359"/>
+    <nd ref="887619348"/>
+    <nd ref="865157392"/>
+    <nd ref="887616065"/>
+    <nd ref="865157250"/>
+    <nd ref="865157161"/>
+    <nd ref="887611823"/>
+    <nd ref="887613997"/>
+    <nd ref="887616149"/>
+    <nd ref="887610966"/>
+    <nd ref="887618349"/>
+    <nd ref="865157246"/>
+    <nd ref="887611214"/>
+    <nd ref="887618160"/>
+    <nd ref="887610633"/>
+    <nd ref="865157429"/>
+    <nd ref="887618844"/>
+    <nd ref="887610707"/>
+    <nd ref="865157318"/>
+    <nd ref="887611644"/>
+    <nd ref="887610279"/>
+    <nd ref="865157169"/>
+    <nd ref="887616117"/>
+    <nd ref="865157552"/>
+    <nd ref="865157285"/>
+    <nd ref="887609441"/>
+    <nd ref="3822803167"/>
+    <nd ref="865157226"/>
+    <nd ref="887616213"/>
+    <nd ref="887611599"/>
+    <nd ref="3822803173"/>
+    <nd ref="865157501"/>
+    <nd ref="3822803174"/>
+    <nd ref="865157587"/>
+    <nd ref="865157510"/>
+    <nd ref="3822803176"/>
+    <nd ref="865157171"/>
+    <nd ref="865157174"/>
+    <nd ref="887617459"/>
+    <nd ref="887612828"/>
+    <nd ref="865157230"/>
+    <nd ref="887617183"/>
+    <nd ref="1084595860"/>
+    <nd ref="1084596461"/>
+    <nd ref="1084595808"/>
+    <nd ref="1084596069"/>
+    <nd ref="1084595387"/>
+    <nd ref="865157201"/>
+    <nd ref="865157461"/>
+    <nd ref="865157187"/>
+    <nd ref="2960665960"/>
+    <nd ref="2960665968"/>
+    <nd ref="865157261"/>
+    <nd ref="887618828"/>
+    <nd ref="887611318"/>
+    <nd ref="865157195"/>
+    <nd ref="887618443"/>
+    <nd ref="2960665816"/>
+    <nd ref="2960665119"/>
+    <nd ref="2960665738"/>
+    <nd ref="2960665749"/>
+    <nd ref="2960665752"/>
+    <nd ref="2960665769"/>
+    <nd ref="2960665772"/>
+    <nd ref="2960665773"/>
+    <nd ref="2960665762"/>
+    <nd ref="2960665129"/>
+    <nd ref="2960665761"/>
+    <nd ref="2960665753"/>
+    <nd ref="2960665760"/>
+    <nd ref="2960665756"/>
+    <nd ref="2960665128"/>
+    <nd ref="2960665746"/>
+    <nd ref="2960665118"/>
+    <nd ref="2960665112"/>
+    <nd ref="2960665114"/>
+    <nd ref="2960678801"/>
+    <nd ref="887617028"/>
+    <tag k="access" v="no"/>
+    <tag k="aerodrome:type" v="regional"/>
+    <tag k="aeroway" v="aerodrome"/>
+    <tag k="disused" v="yes"/>
+    <tag k="ele" v="85.4"/>
+    <tag k="end_date" v="2018-03-01"/>
+    <tag k="icao" v="URRR"/>
+    <tag k="name" v="Ростов-на-Дону"/>
+    <tag k="name:ar" v="مطار روستوف نا دونو"/>
+    <tag k="name:cs" v="Letiště Rostov na Donu"/>
+    <tag k="name:de" v="Flughafen Rostow am Don"/>
+    <tag k="name:en" v="Rostov-on-Don Airport"/>
+    <tag k="name:es" v="Aeropuerto de Rostov-on-Don"/>
+    <tag k="name:fa" v="فرودگاه روستوف-نا-دونو"/>
+    <tag k="name:fi" v="Rostov-na-Donun lentoasema"/>
+    <tag k="name:fr" v="Aéroport de Rostov-sur-le-Don"/>
+    <tag k="name:hy" v="Դոնի Ռոստով"/>
+    <tag k="name:id" v="Bandar Udara Rostov na Donu"/>
+    <tag k="name:it" v="Aeroporto di Rostov sul Don"/>
+    <tag k="name:ko" v="로스토프나도누 공항"/>
+    <tag k="name:ms" v="Lapangan Terbang Rostov-Na-Donu"/>
+    <tag k="name:nl" v="Luchthaven Rostov aan de Don"/>
+    <tag k="name:pl" v="Port lotniczy Rostów nad Donem"/>
+    <tag k="name:pt" v="Aeroporto de Rostov do Don"/>
+    <tag k="name:ru" v="Ростов-на-Дону"/>
+    <tag k="name:tg" v="Фурудгоҳи Ростов болои Дон"/>
+    <tag k="name:tr" v="Rostov-na-Donu Havalimanı"/>
+    <tag k="name:uk" v="Ростов-на-Дону"/>
+    <tag k="name:vi" v="Sân bay Rostov-na-Donu"/>
+    <tag k="name:xmf" v="დონიშ როსტოვიშ აეროპორტი"/>
+    <tag k="nat_ref" v="УРРР"/>
+    <tag k="official_status" v="ru:посадочная площадка"/>
+    <tag k="old_aerodrome:type" v="international"/>
+    <tag k="old_iata" v="RVI"/>
+    <tag k="old_official_status" v="ru:международный аэропорт"/>
+    <tag k="old_ref" v="РДО"/>
+    <tag k="wikidata" v="Q1432638"/>
+    <tag k="wikipedia" v="ru:Ростов-на-Дону (аэропорт)"/>
+  </way>
+  <way id="352996176">
+    <center lat="47.1794316" lon="39.4272723"/>
+    <nd ref="3587812463"/>
+    <nd ref="10282169678"/>
+    <nd ref="3587812464"/>
+    <nd ref="3587812461"/>
+    <nd ref="10282169679"/>
+    <nd ref="10282169680"/>
+    <nd ref="3587812460"/>
+    <nd ref="10282169681"/>
+    <nd ref="3587812433"/>
+    <nd ref="10282169682"/>
+    <nd ref="3587812427"/>
+    <nd ref="10282169669"/>
+    <nd ref="10282169670"/>
+    <nd ref="3587812429"/>
+    <nd ref="10282169671"/>
+    <nd ref="10282169672"/>
+    <nd ref="10282169673"/>
+    <nd ref="3587812438"/>
+    <nd ref="10282169675"/>
+    <nd ref="10282169674"/>
+    <nd ref="3587812431"/>
+    <nd ref="3587812444"/>
+    <nd ref="3587812442"/>
+    <nd ref="10282169676"/>
+    <nd ref="10282169677"/>
+    <nd ref="3587812463"/>
+    <tag k="aerodrome:type" v="airfield"/>
+    <tag k="aeroway" v="aerodrome"/>
+    <tag k="ele" v="5"/>
+    <tag k="name" v="Дугино"/>
+    <tag k="name:ru" v="Дугино"/>
+    <tag k="name:uk" v="Дугіне"/>
+    <tag k="nat_ref" v="УРУД"/>
+    <tag k="official_status" v="ru:аэродром"/>
+    <tag k="ref:aopa:en" v="URUD"/>
+  </way>
+  <way id="926383077">
+    <center lat="47.5670281" lon="39.9578233"/>
+    <nd ref="8596558307"/>
+    <nd ref="8596558306"/>
+    <nd ref="10577625674"/>
+    <nd ref="8596558305"/>
+    <nd ref="10577625680"/>
+    <nd ref="10577625679"/>
+    <nd ref="8596558304"/>
+    <nd ref="8596558303"/>
+    <nd ref="8596558302"/>
+    <nd ref="10577625678"/>
+    <nd ref="8596558301"/>
+    <nd ref="8596558288"/>
+    <nd ref="8596558300"/>
+    <nd ref="8596558299"/>
+    <nd ref="8596558298"/>
+    <nd ref="8596558296"/>
+    <nd ref="8596558294"/>
+    <nd ref="8596558293"/>
+    <nd ref="8596558292"/>
+    <nd ref="8596558291"/>
+    <nd ref="8596558290"/>
+    <nd ref="8596558289"/>
+    <nd ref="10577625675"/>
+    <nd ref="8596558307"/>
+    <tag k="aerodrome:type" v="airfield"/>
+    <tag k="aeroway" v="aerodrome"/>
+    <tag k="ele" v="97"/>
+    <tag k="name" v="Новоперсиановка"/>
+    <tag k="name:ru" v="Новоперсиановка"/>
+    <tag k="name:uk" v="Новоперсіанівка"/>
+    <tag k="official_status" v="ru:аэродром"/>
+  </way>
+  <way id="926787023">
+    <center lat="47.5649467" lon="39.0003303"/>
+    <nd ref="8599688588"/>
+    <nd ref="10577555619"/>
+    <nd ref="8599688586"/>
+    <nd ref="8599688585"/>
+    <nd ref="8599688584"/>
+    <nd ref="8599688583"/>
+    <nd ref="8599688582"/>
+    <nd ref="10577555588"/>
+    <nd ref="8599688581"/>
+    <nd ref="8599688580"/>
+    <nd ref="8599688579"/>
+    <nd ref="8599688578"/>
+    <nd ref="10577555593"/>
+    <nd ref="10577555592"/>
+    <nd ref="10577555591"/>
+    <nd ref="10577555590"/>
+    <nd ref="10577555589"/>
+    <nd ref="10577555594"/>
+    <nd ref="10577555595"/>
+    <nd ref="10577555596"/>
+    <nd ref="10577555597"/>
+    <nd ref="10577555598"/>
+    <nd ref="10577555599"/>
+    <nd ref="10577555600"/>
+    <nd ref="10577555601"/>
+    <nd ref="10577555602"/>
+    <nd ref="10577555603"/>
+    <nd ref="10577555604"/>
+    <nd ref="10577555605"/>
+    <nd ref="10577555606"/>
+    <nd ref="10577555607"/>
+    <nd ref="10577555608"/>
+    <nd ref="10577555609"/>
+    <nd ref="8599688577"/>
+    <nd ref="8599688576"/>
+    <nd ref="8599688575"/>
+    <nd ref="10577555610"/>
+    <nd ref="8599688574"/>
+    <nd ref="10577555611"/>
+    <nd ref="8599688573"/>
+    <nd ref="8599688572"/>
+    <nd ref="8599688571"/>
+    <nd ref="10577555612"/>
+    <nd ref="8599688570"/>
+    <nd ref="10577555613"/>
+    <nd ref="10577555614"/>
+    <nd ref="10577555615"/>
+    <nd ref="10577555616"/>
+    <nd ref="10577555617"/>
+    <nd ref="10577555618"/>
+    <nd ref="8599688588"/>
+    <tag k="aerodrome:type" v="airfield"/>
+    <tag k="aeroway" v="aerodrome"/>
+    <tag k="ele" v="113"/>
+    <tag k="name" v="Новоандриановка"/>
+    <tag k="name:ru" v="Новоандриановка"/>
+    <tag k="name:uk" v="Новоадріанівка"/>
+    <tag k="official_status" v="ru:аэродром"/>
+  </way>
+  <way id="926817468">
+    <center lat="47.0386142" lon="40.0014010"/>
+    <nd ref="8599932791"/>
+    <nd ref="10597425605"/>
+    <nd ref="10597425604"/>
+    <nd ref="10597425603"/>
+    <nd ref="10597425602"/>
+    <nd ref="8599932796"/>
+    <nd ref="10597425611"/>
+    <nd ref="10597425610"/>
+    <nd ref="8599932795"/>
+    <nd ref="10597425609"/>
+    <nd ref="8599932790"/>
+    <nd ref="8599932789"/>
+    <nd ref="10597425581"/>
+    <nd ref="10597425580"/>
+    <nd ref="10597425579"/>
+    <nd ref="10597425578"/>
+    <nd ref="10597425577"/>
+    <nd ref="10597425576"/>
+    <nd ref="10597425575"/>
+    <nd ref="10597425574"/>
+    <nd ref="10597425573"/>
+    <nd ref="10597425572"/>
+    <nd ref="10597425571"/>
+    <nd ref="10597425570"/>
+    <nd ref="10597425569"/>
+    <nd ref="10597425568"/>
+    <nd ref="10597425582"/>
+    <nd ref="10597425583"/>
+    <nd ref="10597425584"/>
+    <nd ref="10597425597"/>
+    <nd ref="10597425596"/>
+    <nd ref="10597425595"/>
+    <nd ref="10597425594"/>
+    <nd ref="10597425593"/>
+    <nd ref="10597425592"/>
+    <nd ref="10597425591"/>
+    <nd ref="10597425590"/>
+    <nd ref="10597425589"/>
+    <nd ref="10597425588"/>
+    <nd ref="10597425587"/>
+    <nd ref="10597425586"/>
+    <nd ref="8599932793"/>
+    <nd ref="10597425585"/>
+    <nd ref="8599932792"/>
+    <nd ref="10597425601"/>
+    <nd ref="10597425600"/>
+    <nd ref="10597425599"/>
+    <nd ref="10597425598"/>
+    <nd ref="10597425606"/>
+    <nd ref="10597425607"/>
+    <nd ref="10597425608"/>
+    <nd ref="8599932791"/>
+    <tag k="aerodrome:type" v="airfield"/>
+    <tag k="aeroway" v="aerodrome"/>
+    <tag k="ele" v="85"/>
+    <tag k="name" v="Совхоз имени Вильямса"/>
+    <tag k="name:ru" v="Совхоз имени Вильямса"/>
+    <tag k="name:uk" v="Колгосп імені Вільямса"/>
+    <tag k="official_status" v="ru:аэродром"/>
+  </way>
+  <way id="1123540763">
+    <center lat="47.0928474" lon="39.8150466"/>
+    <nd ref="10275026318"/>
+    <nd ref="10275026317"/>
+    <nd ref="10275026316"/>
+    <nd ref="10275026315"/>
+    <nd ref="10275026314"/>
+    <nd ref="10275026313"/>
+    <nd ref="10275026312"/>
+    <nd ref="10275026311"/>
+    <nd ref="10275026310"/>
+    <nd ref="10275026309"/>
+    <nd ref="10275023608"/>
+    <nd ref="10275023607"/>
+    <nd ref="10275023606"/>
+    <nd ref="10275023605"/>
+    <nd ref="10275023604"/>
+    <nd ref="10275023603"/>
+    <nd ref="10275023602"/>
+    <nd ref="10275023601"/>
+    <nd ref="10275023600"/>
+    <nd ref="10275023599"/>
+    <nd ref="10275023598"/>
+    <nd ref="10275023597"/>
+    <nd ref="10275023596"/>
+    <nd ref="10275023595"/>
+    <nd ref="10275023594"/>
+    <nd ref="10275023593"/>
+    <nd ref="10275023592"/>
+    <nd ref="10275023591"/>
+    <nd ref="10275023590"/>
+    <nd ref="10275023589"/>
+    <nd ref="10275023588"/>
+    <nd ref="10275023587"/>
+    <nd ref="10275023586"/>
+    <nd ref="10275023585"/>
+    <nd ref="10275023576"/>
+    <nd ref="10275023575"/>
+    <nd ref="10275023577"/>
+    <nd ref="10275023578"/>
+    <nd ref="10275023584"/>
+    <nd ref="10275023583"/>
+    <nd ref="10275023582"/>
+    <nd ref="10275023581"/>
+    <nd ref="10275023580"/>
+    <nd ref="10275023579"/>
+    <nd ref="10275026318"/>
+    <tag k="aerodrome:type" v="airfield"/>
+    <tag k="aeroway" v="aerodrome"/>
+    <tag k="ele" v="39"/>
+    <tag k="name" v="Мимино"/>
+    <tag k="name:ka" v="მიმინო"/>
+    <tag k="name:ru" v="Мимино"/>
+    <tag k="name:uk" v="Міміно"/>
+    <tag k="nat_ref" v="УРРД"/>
+    <tag k="official_status" v="ru:аэродром"/>
+  </way>
+  <way id="1306856168">
+    <center lat="47.0826722" lon="39.4020447"/>
+    <nd ref="12102646583"/>
+    <nd ref="12102646582"/>
+    <nd ref="12102646581"/>
+    <nd ref="12102646580"/>
+    <nd ref="12102646579"/>
+    <nd ref="12102646578"/>
+    <nd ref="12102646577"/>
+    <nd ref="12102646576"/>
+    <nd ref="12102646575"/>
+    <nd ref="12102646574"/>
+    <nd ref="12102646573"/>
+    <nd ref="12102646572"/>
+    <nd ref="12102646571"/>
+    <nd ref="12102646570"/>
+    <nd ref="12102646569"/>
+    <nd ref="12102646568"/>
+    <nd ref="12102646567"/>
+    <nd ref="12102646566"/>
+    <nd ref="12102646565"/>
+    <nd ref="12102646564"/>
+    <nd ref="12102646563"/>
+    <nd ref="12102646562"/>
+    <nd ref="12102646561"/>
+    <nd ref="12102646560"/>
+    <nd ref="12102646559"/>
+    <nd ref="12102646558"/>
+    <nd ref="12102646557"/>
+    <nd ref="12102646556"/>
+    <nd ref="12102646583"/>
+    <tag k="aerodrome:type" v="airfield"/>
+    <tag k="aeroway" v="aerodrome"/>
+    <tag k="name" v="Азов"/>
+    <tag k="name:en" v="Azov Airfield"/>
+    <tag k="name:ru" v="Азов"/>
+    <tag k="name:uk" v="Азов"/>
+    <tag k="nat_ref" v="ЬРРА"/>
+    <tag k="official_status" v="аэродром"/>
+    <tag k="operator" v="ДОСААФ"/>
+    <tag k="ref" v="XRRA"/>
+  </way>
+  <relation id="15360664">
+    <center lat="47.0390436" lon="39.4955224"/>
+    <member type="way" ref="1134949805" role="outer"/>
+    <member type="way" ref="1134949796" role="outer"/>
+    <member type="way" ref="1134949806" role="outer"/>
+    <member type="way" ref="1134949797" role="outer"/>
+    <member type="way" ref="1134949800" role="outer"/>
+    <member type="way" ref="1134949793" role="outer"/>
+    <member type="way" ref="1134949801" role="outer"/>
+    <member type="way" ref="1134949795" role="outer"/>
+    <member type="way" ref="1134949804" role="outer"/>
+    <member type="way" ref="1134949792" role="outer"/>
+    <tag k="aerodrome:type" v="airfield"/>
+    <tag k="aeroway" v="aerodrome"/>
+    <tag k="ele" v="40"/>
+    <tag k="name" v="Павловка"/>
+    <tag k="name:en" v="Pavlovka Airfield"/>
+    <tag k="name:ru" v="Павловка"/>
+    <tag k="name:uk" v="Павлівка"/>
+    <tag k="official_status" v="ru:аэродром"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="15416934">
+    <center lat="47.3220842" lon="39.4499865"/>
+    <member type="way" ref="1136872256" role="outer"/>
+    <member type="way" ref="1136872257" role="outer"/>
+    <tag k="aerodrome:type" v="airfield"/>
+    <tag k="aeroway" v="aerodrome"/>
+    <tag k="ele" v="93"/>
+    <tag k="name" v="Щедрый"/>
+    <tag k="name:en" v="Shchedry Airfield"/>
+    <tag k="name:ru" v="Щедрый"/>
+    <tag k="name:uk" v="Щедрий"/>
+    <tag k="official_status" v="ru:аэродром"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="15447637">
+    <center lat="47.4936056" lon="39.9240097"/>
+    <member type="way" ref="332999813" role="outer"/>
+    <member type="way" ref="1139294963" role="outer"/>
+    <tag k="aerodrome:type" v="international"/>
+    <tag k="aeroway" v="aerodrome"/>
+    <tag k="closest_town" v="Ростов-на-Дону;Новочеркасск;Шахты;Новошахтинск;Аксай;Батайск"/>
+    <tag k="ele" v="86"/>
+    <tag k="iata" v="ROV"/>
+    <tag k="icao" v="URRP"/>
+    <tag k="name" v="Платов"/>
+    <tag k="name:az" v="Platov Beynəlxalq Hava Limanı"/>
+    <tag k="name:cs" v="Mezinárodní letiště Platov"/>
+    <tag k="name:de" v="Flughafen Rostow am Don — Platow"/>
+    <tag k="name:en" v="Platov International Airport"/>
+    <tag k="name:fr" v="Aéroport Platov"/>
+    <tag k="name:he" v="נמל התעופה הבין-לאומי פלאטוב"/>
+    <tag k="name:hu" v="Platov nemzetközi repülőtér"/>
+    <tag k="name:ja" v="プラトフ国際空港"/>
+    <tag k="name:ru" v="Платов"/>
+    <tag k="name:tr" v="Platov Uluslararası Havalimanı"/>
+    <tag k="name:vi" v="Sân bay quốc tế Platov"/>
+    <tag k="nat_ref" v="УРРП"/>
+    <tag k="official_status" v="ru:международный аэропорт"/>
+    <tag k="phone" v="+7 (863) 333-49-99"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="website" v="http://platov.aero"/>
+    <tag k="wikidata" v="Q16534881"/>
+    <tag k="wikipedia" v="ru:Платов (аэропорт)"/>
+  </relation>
+
+</osm>
